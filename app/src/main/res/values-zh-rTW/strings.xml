@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">頂尖簡易變價</string>
+    <string name="action_settings">V2.106简</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_init">開啟</string>
+    <string name="btn_uninit">關閉</string>
+    <string name="btn_select_plufile">選擇PLU檔</string>
+    <string name="btn_send_plu">發送PLU</string>
+    <string name="btn_select_hkfile">選擇熱鍵檔</string>
+    <string name="btn_send_hk">發送熱鍵</string>
+    <string name="btn_send_hk_by_array">以数组方式发送热键</string>
+    <string name="btn_read_plu">讀取PLU</string>
+    <string name="btn_read_hk">讀取熱鍵</string>
+    <string name="cb_link66file">Link66檔</string>
+    <string name="lb_info_plu_send">發送PLU資訊</string>
+    <string name="lb_info_plu_read">讀取PLU資訊</string>
+    <string name="lb_info_hk_send">發送熱鍵</string>
+    <string name="lb_info_hk_read">讀取熱鍵</string>
+    <string name="str_success"> 成功 </string>
+    <string name="str_failed"> 失敗 </string>
+    <string name="str_complete"> 完成 </string>
+    <string-array name="lang_Type">
+        <item >簡體</item>
+        <item >繁體</item>
+    </string-array>
+
+</resources>

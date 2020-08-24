@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">顶尖简易变价</string>
+    <string name="action_settings">V2.106</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_init">开启</string>
+    <string name="btn_uninit">关闭</string>
+    <string name="btn_select_plufile">选择PLU文件</string>
+    <string name="btn_send_plu">发送PLU</string>
+    <string name="btn_select_hkfile">选择热键文件</string>
+    <string name="btn_send_hk">发送热键</string>
+    <string name="btn_send_hk_by_array">以数组方式发送热键</string>
+    <string name="btn_read_plu">读取PLU</string>
+    <string name="btn_read_hk">读取热键</string>
+    <string name="cb_link66file">Link66文件</string>
+    <string name="lb_info_plu_send">发送PLU信息</string>
+    <string name="lb_info_plu_read">读取PLU信息</string>
+    <string name="lb_info_hk_send">发送热键</string>
+    <string name="lb_info_hk_read">读取热键</string>
+    <string name="str_success"> 成功 </string>
+    <string name="str_failed"> 失败 </string>
+    <string name="str_complete"> 完成 </string>
+    <string-array name="lang_Type">
+        <item >简体</item>
+        <item >繁体</item>
+    </string-array>
+
+
+    <string name="daidalos_hello">Hello World!</string>
+    <string name="daidalos_app_name">aFileDialog</string>
+    <color name="daidalos_gray">#888</color>
+    <string name="daidalos_select">Select</string>
+    <string name="daidalos_cancel">Cancel</string>
+    <string name="daidalos_ok">OK</string>
+    <string name="daidalos_new_file">New</string>
+    <string name="daidalos_create_file">Create file</string>
+    <string name="daidalos_create_folder">Create folder</string>
+    <string name="daidalos_accept">Accept</string>
+    <string name="daidalos_enter_file_name">Enter the name of the file that you want to create</string>
+    <string name="daidalos_enter_folder_name">Enter the name of the folder that you want to create</string>
+    <string name="daidalos_yes">Yes</string>
+    <string name="daidalos_no">No</string>
+    <string name="daidalos_confirm_select_file">Are you sure that you want to select the file \'$file_name\'?</string>
+    <string name="daidalos_confirm_create_file">The file \'$file_name\' do not exists, are you sure that you want to create it?</string>
+    <string name="daidalos_confirm_select_folder">Are you sure that you want to select the folder \'$file_name\'?</string>
+    <string name="daidalos_confirm_create_folder">The folder \'$file_name\' do not exists, are you sure that you want to create it?</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DJBarcodeScaleDemo</string>
+    <string name="action_settings">V2.106</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_init">Init</string>
+    <string name="btn_uninit">Uninit</string>
+    <string name="btn_select_plufile">Select PLU File</string>
+    <string name="btn_send_plu">Send PLU</string>
+    <string name="btn_select_hkfile">Select Hotkey File</string>
+    <string name="btn_send_hk">Send Hotkey</string>
+    <string name="btn_send_hk_by_array">Send Hotkey by Array</string>
+    <string name="btn_read_plu">Read PLU</string>
+    <string name="btn_read_hk">Read Hotkey</string>
+    <string name="cb_link66file">Link66File</string>
+    <string name="lb_info_plu_send">Send PLU Info</string>
+    <string name="lb_info_plu_read">Read PLU Info</string>
+    <string name="lb_info_hk_send">Send Hotkey</string>
+    <string name="lb_info_hk_read">Read Hotkey</string>
+    <string name="str_success"> success </string>
+    <string name="str_failed"> failed </string>
+    <string name="str_complete"> completed </string>
+    <string-array name="lang_Type">
+        <item >Simplified</item>
+        <item >Traditional</item>
+    </string-array>
+</resources>
